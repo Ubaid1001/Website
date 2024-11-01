@@ -1,0 +1,47 @@
+.main{
+    border: 3px double black;
+    height: 60vh;
+    width: 70%;
+    margin: 0 auto;
+    padding: 10px;
+}
+.logo{
+    margin: 0 auto;
+    width: 10%;
+
+}
+.links{
+    border-top: 3px solid black;
+    border-bottom: 1px solid black;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 10px;
+    font-size: 15px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.link-1{
+    color: brown;
+}
+a{
+    text-decoration: none;
+    color: black;
+    padding: 30px; 
+}
+a:hover{
+    color: brown
+}
+.keys{
+    margin: 10px auto;
+    width: 70%;
+
+}
+.text{
+    
+    word-spacing: 5px;
+    letter-spacing: 5px;
+    text-align: center;
+    width: auto;
+    margin-left: 10%;
+    margin-right: 10%;  
+}

@@ -1,0 +1,7 @@
+git init
+git config user.name ubaid
+git config user.email ubaidraza6372@gmail.com
+git add .
+git commit -m"initial"
+git remote add origin ''
+git push origin master
